@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153502779238",
+    "project_id": "happyclean-347b1",
+    "storage_bucket": "happyclean-347b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153502779238:android:db0af36ad4b58e7a8b2aa7",
+        "android_client_info": {
+          "package_name": "com.example.service_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153502779238-u5mqoq674b93pth1h61hgamoam0natr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjl-Nfl5WqIwxXxaMjiZF1cptVbN3FBOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153502779238-u5mqoq674b93pth1h61hgamoam0natr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

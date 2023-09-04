@@ -10,7 +10,20 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  shared_preferences: ^2.2.1
+  font_awesome_flutter: ^10.4.0
+  page_transition: ^2.0.9
+  google_sign_in: ^6.1.2
+  firebase_auth: ^4.6.1
+  http:
+  carousel_slider: ^4.2.1
+  shimmer: ^3.0.0
+  shared_preferences:
+  badges: ^3.1.1
+  provider:
+  firebase_messaging:
+  flutter_local_notifications:
+  firebase_dynamic_links:
+  url_launcher:
 
 dev_dependencies:
   flutter_test:
